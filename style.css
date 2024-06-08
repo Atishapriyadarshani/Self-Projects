@@ -9,7 +9,7 @@ section {
     width: 400px;
     margin: auto;
     background-color: #180ea7;
-    margin-top: 75px;
+    margin-top: 20px;
     box-shadow: 0px 10px 36px 16px rgba(10, 9, 9, 0.1);
 }
 .game--title {
@@ -58,7 +58,6 @@ button:hover {
 }
 
 .footer {
-    background-color: #0c022e;
     color: white;
     text-align: center;
     padding: 1px 0;
