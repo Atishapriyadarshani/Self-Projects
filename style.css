@@ -71,12 +71,4 @@ button:hover {
     margin: 0;
     padding: 0;
 }
-
-.imgbox img {
-    width: 50%; /* Adjust the width as needed */
-    height: auto; /* Adjust the height as needed */
-    border:none; /* Optional: adds a border around the image */
-    display: block; /* Ensures the image is block-level */
-    margin: 0 auto; /* Centers the image within the .imgbox */
-  }
   
